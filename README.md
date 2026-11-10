@@ -21,3 +21,4 @@
 
 
 ![Pied bleu result](Mushuroom-type/Mushuroom-type/pie%20de%20bleu.png)
+"A:\WhatsApp Image 2026-11-10 at 16.59.18.jpeg"
